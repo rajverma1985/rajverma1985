@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajverma1985
 - 👀 I’m interested in Databases and Machine learning!!
-- 🌱 I’m currently learning ML using octave
+- 🌱 I’m currently Wokring on CNN, DNN, Computer Vision & NLP projects
 - 💞️ I’m looking to collaborate on various open source projects, Hackintosh and much more.
 - 📫 You can to reach me at "rjnshvrm23@gmail.com"
 
