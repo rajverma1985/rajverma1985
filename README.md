@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajverma1985
 - 👀 I’m interested in Databases and Machine learning!!
-- 🌱 I’m currently Wokring on CNN, DNN, Computer Vision & NLP projects
+- 🌱 I’m currently Working on CNN, DNN, Computer Vision & NLP projects
 - 💞️ I’m looking to collaborate on various open source projects w.r.t Machine Learning, PostgreSQL, Python, Flask and C.
 - 📫 You can to reach me at "rjnshvrm23@gmail.com"
 
